@@ -13,7 +13,7 @@ def carregar_dados(empresa):
     return cotacoes_acao
 
 # preparar as visualizações
-#dados = carregar_dados("ITUB4.SA")
+dados = carregar_dados("ITUB4.SA")
 #print(dados)
 
 
